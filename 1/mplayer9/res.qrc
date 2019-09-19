@@ -1,0 +1,69 @@
+<RCC>
+    <qresource prefix="/">
+        <file>png/back.png</file>
+        <file>png/battery empty.png</file>
+        <file>png/blinklist.png</file>
+        <file>png/blogmarks.png</file>
+        <file>png/bluetooth.png</file>
+        <file>png/bomb.png</file>
+        <file>png/close.png</file>
+        <file>png/configuration 1.png</file>
+        <file>png/down.png</file>
+        <file>png/error.png</file>
+        <file>png/fast backward.png</file>
+        <file>png/fast forward.png</file>
+        <file>png/favorites.png</file>
+        <file>png/move.png</file>
+        <file>png/mute 2.png</file>
+        <file>png/next track.png</file>
+        <file>png/onebit_01.png</file>
+        <file>png/onebit_02.png</file>
+        <file>png/onebit_03.png</file>
+        <file>png/onebit_04.png</file>
+        <file>png/onebit_05.png</file>
+        <file>png/onebit_06.png</file>
+        <file>png/onebit_07.png</file>
+        <file>png/onebit_08.png</file>
+        <file>png/onebit_09.png</file>
+        <file>png/onebit_10.png</file>
+        <file>png/onebit_11.png</file>
+        <file>png/onebit_12.png</file>
+        <file>png/onebit_13.png</file>
+        <file>png/onebit_14.png</file>
+        <file>png/onebit_15.png</file>
+        <file>png/onebit_16.png</file>
+        <file>png/onebit_17.png</file>
+        <file>png/onebit_18.png</file>
+        <file>png/onebit_19.png</file>
+        <file>png/onebit_20.png</file>
+        <file>png/onebit_21.png</file>
+        <file>png/onebit_22.png</file>
+        <file>png/onebit_23.png</file>
+        <file>png/onebit_24.png</file>
+        <file>png/onebit_25.png</file>
+        <file>png/onebit_26.png</file>
+        <file>png/onebit_27.png</file>
+        <file>png/onebit_28.png</file>
+        <file>png/onebit_29.png</file>
+        <file>png/onebit_30.png</file>
+        <file>png/onebit_31.png</file>
+        <file>png/onebit_32.png</file>
+        <file>png/onebit_33.png</file>
+        <file>png/onebit_34.png</file>
+        <file>png/onebit_35.png</file>
+        <file>png/onebit_36.png</file>
+        <file>png/onebit_37.png</file>
+        <file>png/onebit_38.png</file>
+        <file>png/onebit_39.png</file>
+        <file>png/onebit_40.png</file>
+        <file>png/pause.png</file>
+        <file>png/play.png</file>
+        <file>png/scroll down.png</file>
+        <file>png/scroll left.png</file>
+        <file>png/scroll right.png</file>
+        <file>png/scroll up.png</file>
+        <file>png/undo.png</file>
+        <file>png/volume.png</file>
+        <file>png/volume 2.png</file>
+    </qresource>
+</RCC>
